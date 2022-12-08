@@ -1,6 +1,6 @@
 ## React - Ecommerce Fantasia
 
-Ecommerce com Context API para poder compartilhar os dados com todos componentes dentro do contexto.
+Ecommerce com Context API.
 
 ## Requisitos:
 
