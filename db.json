@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Preta",
+      "image": "https://media.istockphoto.com/photos/black-fashion-polo-shirt-template-on-isolated-background-with-path-picture-id936966490?s=612x612",
+      "price": 150.0,
+      "description": "The basic and confortable black t-shirt that goes with everything"
+    },
+    {
+      "id": 2,
+      "name": "Azul",
+      "image": "https://media.istockphoto.com/photos/blue-collared-shirt-design-template-picture-id1127036487?s=612x612",
+      "price": 100.0,
+      "description": "The basic and confortable black t-shirt that goes with everything"
+    },
+    {
+      "id": 3,
+      "name": "Verde",
+      "image": "https://media.istockphoto.com/photos/polo-shirt-green-picture-id1420676911?s=612x612",
+      "price": 100.0,
+      "description": "The basic and confortable black t-shirt that goes with everything"
+    },
+    {
+      "id": 4,
+      "name": "Branca",
+      "image": "https://media.istockphoto.com/photos/front-of-a-clean-white-tshirt-picture-id179224958?s=612x612",
+      "price": 120.0,
+      "description": "The basic and confortable black t-shirt that goes with everything"
+    },
+    {
+      "id": 5,
+      "name": "Roxa",
+      "image": "https://media.istockphoto.com/photos/violet-tshirt-template-men-isolated-on-white-tee-shirt-blank-as-picture-id1354823135?s=612x612",
+      "price": 150.0,
+      "description": "The basic and confortable black t-shirt that goes with everything"
+    },
+    {
+      "id": 6,
+      "name": "Vermelha",
+      "image": "https://static.netshoes.com.br/produtos/camiseta-sport-blanks-masculina/16/D65-1733-016/D65-1733-016_zoom1.jpg?ts=1660657624&ims=544x",
+      "price": 150.0,
+      "description": "The basic and confortable black t-shirt that goes with everything"
+    },
+    {
+      "id": 7,
+      "name": "Laranja",
+      "image": "https://media.istockphoto.com/photos/slim-female-shirt-in-orange-with-short-sleeves-isolated-on-white-picture-id1010564452?s=612x612",
+      "price": 200.0,
+      "description": "The basic and confortable black t-shirt that goes with everything"
+    },
+    {
+      "id": 8,
+      "name": "Amarela",
+      "image": "https://media.istockphoto.com/photos/yellow-tshirt-clipping-path-picture-id465485391?s=612x612",
+      "price": 100.0,
+      "description": "The basic and confortable black t-shirt that goes with everything"
+    }
+  ]
+}
